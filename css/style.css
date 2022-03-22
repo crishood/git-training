@@ -1,4 +1,12 @@
 body{
-    text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    color: #444;
+}
+
+.content{
+    padding: 10px;
+    border: solid 1px #aaa;
+    border-radius: 8px;
+    width: 70%;
+    margin: 0 auto;
 }
